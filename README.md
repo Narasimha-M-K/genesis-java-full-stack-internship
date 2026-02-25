@@ -1,4 +1,4 @@
-# Genesis Java Stack Internship
+# Genesis Java Full Stack Internship
 
 This repository contains the work completed during the **Genesis – Industry-Ready Internship Program (Java Stack)**.  
 The internship focuses on building backend development fundamentals using Java, Spring Boot, MySQL, and basic frontend integration.
